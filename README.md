@@ -1,6 +1,6 @@
 ## Description
 
-This is an app using API from OpenWeather to get weather data then display it to a web app using NextJS.
+This is an Single Page Application (SPA) using API from OpenWeather to get weather data then display it to a web app using NextJS.
 
 ## Goals
 
